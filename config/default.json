@@ -1,0 +1,14 @@
+{
+    "connectionString": {
+        "default": "connectionstring"
+    },
+    "smtp": {
+        "email": "email",
+        "password": "senha",
+        "host": "host",
+        "port": "porta"
+    },
+    "jwt": {
+        "token": "token"
+    }
+}
